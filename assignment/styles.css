@@ -1,0 +1,37 @@
+.nameDiv {
+    border: 5px outset rgba(164, 226, 245, 0.938);
+    background-color: rgba(248, 186, 186, 0.76); 
+    display:flex;
+    align-items: center;
+    justify-content: center
+  }
+
+.imgsize {
+    opacity: 0.8;
+    width: 100px;
+    height: 70px;
+
+}
+
+.txtattrib{
+    font-size:18px;
+    font-weight:bold;
+}
+.hobbyattrib{
+    border: 2px solid powderblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+.intro{
+    font-size: 24px;
+    color: darkblue;
+    margin: 20px 0px 20px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+p {
+    background-color: lightblue;
+       font-size: 14px;
+       font-weight:bold;
+   }
